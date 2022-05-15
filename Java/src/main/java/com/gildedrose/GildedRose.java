@@ -4,7 +4,7 @@ class GildedRose {
     public static final String AGED_BRIE = "Aged Brie";
     public static final String BACKSTAGE_PASSES = "Backstage passes to a TAFKAL80ETC concert";
     public static final String SULFURAS = "Sulfuras, Hand of Ragnaros";
-
+    public static final String CONJURED = "Conjured Mana Cake";
     private final Item[] items;
 
     public GildedRose(Item... items) {
@@ -24,7 +24,7 @@ class GildedRose {
     private void updateItemQuality(Item item) {
         DegradePredicate degradePredicate = new DegradePredicate();
         boolean isExpired = item.sellIn < 1;
-        int degradeRate = getDegradeRate(isExpired);
+        int degradeRate = getDegradeRate(item, isExpired);
         if (degradePredicate.test(item)) {
             adjustQuality(item, degradeRate);
         }
@@ -47,12 +47,16 @@ class GildedRose {
             item.sellIn = item.sellIn - 1;
         }
         if (isExpired && AGED_BRIE.equals(item.name)) {
-            adjustQuality(item, 1);
+                adjustQuality(item, 1);
         }
     }
 
-    private int getDegradeRate(boolean isExpired) {
-        return isExpired ? -2 : -1;
+    private int getDegradeRate(Item item, boolean isExpired) {
+        int rate = CONJURED.equals(item.name) ? -2 : -1;
+        if (isExpired) {
+            rate *= 2;
+        }
+        return rate;
     }
 
 

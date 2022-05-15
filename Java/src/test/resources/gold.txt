@@ -20,7 +20,7 @@
  Backstage passes to a TAFKAL80ETC concert     14 21       
  Backstage passes to a TAFKAL80ETC concert      9 50       
  Backstage passes to a TAFKAL80ETC concert      4 50       
-                        Conjured Mana Cake      2 5        
+                        Conjured Mana Cake      2 4        
 
 ------------------------- day 2 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -32,7 +32,7 @@
  Backstage passes to a TAFKAL80ETC concert     13 22       
  Backstage passes to a TAFKAL80ETC concert      8 50       
  Backstage passes to a TAFKAL80ETC concert      3 50       
-                        Conjured Mana Cake      1 4        
+                        Conjured Mana Cake      1 2        
 
 ------------------------- day 3 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -44,7 +44,7 @@
  Backstage passes to a TAFKAL80ETC concert     12 23       
  Backstage passes to a TAFKAL80ETC concert      7 50       
  Backstage passes to a TAFKAL80ETC concert      2 50       
-                        Conjured Mana Cake      0 3        
+                        Conjured Mana Cake      0 0        
 
 ------------------------- day 4 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -56,7 +56,7 @@
  Backstage passes to a TAFKAL80ETC concert     11 24       
  Backstage passes to a TAFKAL80ETC concert      6 50       
  Backstage passes to a TAFKAL80ETC concert      1 50       
-                        Conjured Mana Cake     -1 1        
+                        Conjured Mana Cake     -1 0        
 
 ------------------------- day 5 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -68,7 +68,7 @@
  Backstage passes to a TAFKAL80ETC concert     10 25       
  Backstage passes to a TAFKAL80ETC concert      5 50       
  Backstage passes to a TAFKAL80ETC concert      0 50       
-                        Conjured Mana Cake     -2 -1       
+                        Conjured Mana Cake     -2 0        
 
 ------------------------- day 6 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -80,7 +80,7 @@
  Backstage passes to a TAFKAL80ETC concert      9 27       
  Backstage passes to a TAFKAL80ETC concert      4 50       
  Backstage passes to a TAFKAL80ETC concert     -1 0        
-                        Conjured Mana Cake     -3 -1       
+                        Conjured Mana Cake     -3 0        
 
 ------------------------- day 7 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -92,7 +92,7 @@
  Backstage passes to a TAFKAL80ETC concert      8 29       
  Backstage passes to a TAFKAL80ETC concert      3 50       
  Backstage passes to a TAFKAL80ETC concert     -2 0        
-                        Conjured Mana Cake     -4 -1       
+                        Conjured Mana Cake     -4 0        
 
 ------------------------- day 8 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -104,7 +104,7 @@
  Backstage passes to a TAFKAL80ETC concert      7 31       
  Backstage passes to a TAFKAL80ETC concert      2 50       
  Backstage passes to a TAFKAL80ETC concert     -3 0        
-                        Conjured Mana Cake     -5 -1       
+                        Conjured Mana Cake     -5 0        
 
 ------------------------- day 9 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -116,7 +116,7 @@
  Backstage passes to a TAFKAL80ETC concert      6 33       
  Backstage passes to a TAFKAL80ETC concert      1 50       
  Backstage passes to a TAFKAL80ETC concert     -4 0        
-                        Conjured Mana Cake     -6 -1       
+                        Conjured Mana Cake     -6 0        
 
 ------------------------- day 10 -------------------------- 
                                       NAME SELLIN QUALITY  
@@ -128,5 +128,5 @@
  Backstage passes to a TAFKAL80ETC concert      5 35       
  Backstage passes to a TAFKAL80ETC concert      0 50       
  Backstage passes to a TAFKAL80ETC concert     -5 0        
-                        Conjured Mana Cake     -7 -1       
+                        Conjured Mana Cake     -7 0        
 
